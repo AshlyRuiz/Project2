@@ -20,6 +20,7 @@ struct MovieDetailView: View {
                         .frame(height: geometry.size.height / 3)
                         .aspectRatio(contentMode: .fill)
                         .clipped()
+                        .background(Color.blue) // Set background color to blue
                     Text(movie.title)
                         .font(.title)
                     Text(movie.fullDescription)
@@ -30,13 +31,15 @@ struct MovieDetailView: View {
                 }
                 .padding()
             }
+            .background(Color.gray) // Set background color to gray
             .navigationBarTitle(movie.title)
         }
     }
+}
+
     
     struct MovieDetailView_Previews: PreviewProvider {
         static var previews: some View {
             MovieDetailView(movie: movies[0])
         }
     }
-}

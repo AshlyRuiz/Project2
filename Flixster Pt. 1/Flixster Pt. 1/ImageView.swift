@@ -41,6 +41,7 @@ struct ImageView: View {
             .frame(width: 50, height: 75)
             .clipShape(RoundedRectangle(cornerRadius: 10))
             .overlay(RoundedRectangle(cornerRadius: 10).stroke(Color.gray, lineWidth: 1))
+            .background(Color.green) // Set background color to green
         } else {
             Image(systemName: "photo")
                 .resizable()
@@ -48,9 +49,11 @@ struct ImageView: View {
                 .frame(width: 50, height: 75)
                 .clipShape(RoundedRectangle(cornerRadius: 10))
                 .overlay(RoundedRectangle(cornerRadius: 10).stroke(Color.gray, lineWidth: 1))
+                .background(Color.green) // Set background color to green
         }
     }
 }
+
 
 struct ImageView_Previews: PreviewProvider {
     static var previews: some View {
