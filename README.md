@@ -16,7 +16,7 @@ The following **required** functionality is completed:
  
 The following **optional** features are implemented:
 
-- [ ] Unique UI changes, such as background, font/color changes, etc.
+- [X ] Unique UI changes, such as background, font/color changes, etc.
 - [ ] User implements a collection view
 - [ ] User implemenets tab bar controller with at least two screens
 - [ ] Your app should work for any screen size and orientation using AutoLayout constraints
@@ -28,15 +28,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-<div>
-    <a href="https://www.loom.com/share/3d19a5cacb2d4a6490d1272f88eaf9c0">
-    </a>
-    <a href="https://www.loom.com/share/3d19a5cacb2d4a6490d1272f88eaf9c0">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3d19a5cacb2d4a6490d1272f88eaf9c0-with-play.gif">
-    </a>
-  </div> .
+https://youtube.com/shorts/fCYyyI18h24
 
 ## Notes
 
