@@ -2,56 +2,7 @@
 
 Submitted by: Ashly Ruiz
 
-Flixster Pt.1 is a movie browsing app that uses hardcoded Movie data models to display mocked data. The movies that are displayed are: Aquaman and the Lost Kingdom, Wonka, Migration, The Beekeeper, and 60 Minten.
-
-Time spent: 40 hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
-
-- [ X] Users are able to see a customized app icon and launch screen
-- [ X] Displays at least 5 different movies in a table view
-- [ X] Can tap into detail view of movie with a full description, backdrop image, and title
- 
-The following **optional** features are implemented:
-
-- [X ] Unique UI changes, such as background, font/color changes, etc.
-
-
-## Video Walkthrough
-
-<div>
-    <a href="https://www.loom.com/share/b36bc9198d2049a39ba1dbc624e7caf5">
-    </a>
-    <a href="https://www.loom.com/share/b36bc9198d2049a39ba1dbc624e7caf5">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b36bc9198d2049a39ba1dbc624e7caf5-with-play.gif">
-    </a>
-  </div>
-
-## Notes
-
-The major challenege I faced for this project was getting the images for the posterPath and backdropPath to display the images.
-
-## License
-
-    Copyright [yyyy] [name of copyright owner]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
-    
-
-
-Flixster Pt.2 is an app that allows users to view now playing movie data fetched from the The Movie DB (TMDB) API, allows for multiple ways to view movies, and can view movie posters.
+Flixster is an app that allows users to view now playing movie data fetched from the The Movie DB (TMDB) API, allows for multiple ways to view movies, and can view movie posters.
 
 Time spent: 120 hours spent in total
 
@@ -71,6 +22,16 @@ The following **required** functionality is completed:
     </a>
     <a href="https://www.loom.com/share/da4e5f8d66c14d4bb4a985f346b7478a">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/da4e5f8d66c14d4bb4a985f346b7478a-with-play.gif">
+    </a>
+  </div>
+
+  ## Video Walkthrough
+
+<div>
+    <a href="https://www.loom.com/share/b36bc9198d2049a39ba1dbc624e7caf5">
+    </a>
+    <a href="https://www.loom.com/share/b36bc9198d2049a39ba1dbc624e7caf5">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b36bc9198d2049a39ba1dbc624e7caf5-with-play.gif">
     </a>
   </div>
 
