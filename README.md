@@ -1,4 +1,4 @@
-# Project 2 - Flixster Pt.1
+# Project 2 - Flixster 
 
 Submitted by: Ashly Ruiz
 
@@ -17,14 +17,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [X ] Unique UI changes, such as background, font/color changes, etc.
-- [ ] User implements a collection view
-- [ ] User implemenets tab bar controller with at least two screens
-- [ ] Your app should work for any screen size and orientation using AutoLayout constraints
-  - [ ] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -56,9 +49,7 @@ The major challenege I faced for this project was getting the images for the pos
     See the License for the specific language governing permissions and
     limitations under the License.
     
- # Project 3 - Flixster Pt.2
 
-Submitted by: Ashly Ruiz
 
 Flixster Pt.2 is an app that allows users to view now playing movie data fetched from the The Movie DB (TMDB) API, allows for multiple ways to view movies, and can view movie posters.
 
@@ -72,14 +63,6 @@ The following **required** functionality is completed:
 - [X] App has a collection view with the same list of movies
 - [X] Uses a tab bar controller to switch between collection view and table view screens
  
-The following **optional** features are implemented:
-
-- [ ] Make an additional network call to another end-point.	
-- [ ] Allow users to scroll when context items are off-screen (table view implemention)
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
